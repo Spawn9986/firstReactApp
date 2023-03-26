@@ -3,8 +3,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 
-// Get a reference to the div with ID root
-const el = document.getElementById('root');
+//locate client DOM root and set to a variable
+const el = document.getElementById('root')
 
 // Tell React to take control of root
 const root = ReactDOM.createRoot(el);
