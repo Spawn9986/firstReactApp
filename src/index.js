@@ -1,3 +1,5 @@
+//index.js is where you mount/render your main react component onto your “root” element(which you mark in your html).
+
 // Import the React and ReactDOM libraries and App.js
 import React from 'react';
 import ReactDOM from 'react-dom/client';
