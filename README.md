@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Spawn9986/firstReactApp/blob/main/src/images/completeProject.png" alt="project-screenshot" width="1905" height="945/">
+<img src="https://github.com/Spawn9986/firstReactApp/blob/main/src/images/completeProject.png" alt="project-screenshot" width="953" height="473/">
 
   
   
